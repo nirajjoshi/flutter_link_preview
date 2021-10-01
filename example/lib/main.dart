@@ -27,6 +27,10 @@ class _MyHomePageState extends State<MyHomePage> {
   TextEditingController _controller;
   int _index = -1;
   final List<String> _urls = [
+    "http://feedproxy.google.com/~r/WWFStories/~3/t27VF6NvaJE/restoring-ocean-health-in-a-papua-new-guinea-coastal-community",
+    "http://feedproxy.google.com/~r/WWFStories/~3/LGISUVliHhA/celebrating-pride-on-bringing-your-whole-self-to-the-effort-of-protecting-the-planet",
+    "http://feedproxy.google.com/~r/WWFStories/~3/lnk8Mt4AyFA/how-artificial-watering-holes-help-wildlife-survive-mexico-s-changing-climate",
+    "http://feedproxy.google.com/~r/WWFStories/~3/GlTRUEv8_N0/the-truth-about-white-tigers",
     "https://mp.weixin.qq.com/s/qj7gkU-Pbdcdn3zO6ZQxqg",
     "https://mp.weixin.qq.com/s/43GznPLxi5i3yOdvrlr1JQ",
     "https://m.tb.cn/h.VFcZsnK?sm=34cd13",
